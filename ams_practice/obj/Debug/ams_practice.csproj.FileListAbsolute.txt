@@ -1,0 +1,7 @@
+C:\Users\LHCL\Source\Repos\ams_practice\ams_practice\obj\Debug\ams_practice.csproj.AssemblyReference.cache
+C:\Users\LHCL\Source\Repos\ams_practice\ams_practice\obj\Debug\ams_practice.csproj.CoreCompileInputs.cache
+C:\Users\LHCL\Source\Repos\ams_practice\ams_practice\bin\Debug\ams_practice.exe.config
+C:\Users\LHCL\Source\Repos\ams_practice\ams_practice\bin\Debug\ams_practice.exe
+C:\Users\LHCL\Source\Repos\ams_practice\ams_practice\bin\Debug\ams_practice.pdb
+C:\Users\LHCL\Source\Repos\ams_practice\ams_practice\obj\Debug\ams_practice.exe
+C:\Users\LHCL\Source\Repos\ams_practice\ams_practice\obj\Debug\ams_practice.pdb
